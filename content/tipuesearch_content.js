@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 網站: https://mdewcm2023.github.io/site-41023307/ \n 倉儲:https://mdewcm2023.github.io/site-41023307', 'tags': '', 'url': 'About.html'}]};
+var tipuesearch = {"pages": [{'title': 'About', 'text': 'cmsimde_site \n 網站: https://mdewcm2023.github.io/site-41023307/ \n 倉儲:https://github.com/mdewcm2023/site-41023307', 'tags': '', 'url': 'About.html'}]};
